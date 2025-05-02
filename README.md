@@ -3,6 +3,8 @@
 Este repositório contém uma análise detalhada do desempenho de quatro lojas do Sr. João, o qual me procurar para realizar uma análise estratégica sobre qual dessas 4 lojas ele deveria vender.
 A análise levou em conta faturamento de cada loja ao longo de 4 anos, quantidade de vendas de cada loja, categorias mais vendidas, produtos mais e menos vendidos, avaliação dos clientes e desempenho logístico.
 
+[Dashboard para Visualização dos Dados:](https://desafioalurastore.streamlit.app/)
+
 ---
 
 ## 🧭 Objetivo
