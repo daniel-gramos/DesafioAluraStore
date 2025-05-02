@@ -1,6 +1,4 @@
-matplotlib.pyplot
-matplotlib.ticker
-numpy
 matplotlib
+numpy
 seaborn
 folium
