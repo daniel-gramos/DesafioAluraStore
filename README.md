@@ -26,7 +26,6 @@ Esses dados foram analisados para identificar a loja com o pior desempenho geral
 ## 📂 Estrutura do Projeto
 
 - `CSVs/`: Contém os arquivos com os dados brutos utilizados na análise.
-- `dashboard/`: Código .py de uma Dashboard desenvolvida com o Streamlit para a visualização dos dados.
 - `graficos/`: Arquivos dos gráficos gerados durante o projeto de análise dos dados.
 - AluraStore_Daniel_Ramos.ipynb é o arquivo do Jupyter Notebook contendo todos os códigos utilizados para análise do projeto.
 
